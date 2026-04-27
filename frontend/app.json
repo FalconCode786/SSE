@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Smart LMS & Admission",
+    "slug": "smart-lms-admission",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0b1d3a"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0b1d3a"
+      }
+    },
+    "plugins": [
+      "expo-location",
+      "expo-notifications"
+    ]
+  }
+}
